@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">prueba01_Ana_Manobanda</string>
+
+    <string name="editTextUser_hing" translatable="false">Nombres: </string>
+    <string name="editTextApellido_hing" translatable="false">Apellidos: </string>
+</resources>
