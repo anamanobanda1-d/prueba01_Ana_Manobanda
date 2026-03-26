@@ -35,14 +35,14 @@
         android:textColorHint="#546E7A"/>
 
     <TextView
-        android:id="@+id/txtNumero1APMC"
+        android:id="@+id/txtNumeroAPMC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:text="Primer numero:" />
 
     <TextView
-        android:id="@+id/txtNumero2APMC"
+        android:id="@+id/txtNumerOAPMC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"

@@ -6,13 +6,13 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textView12"
+        android:id="@+id/txtNombreAPMC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Nombres:" />
 
     <TextView
-        android:id="@+id/textView13"
+        android:id="@+id/txtApellidoAPMC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Apellidos: "
@@ -20,13 +20,13 @@
         android:textColorHint="#546E7A" />
 
     <TextView
-        android:id="@+id/textView14"
+        android:id="@+id/txtNumeroAPMC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Primer numero: " />
 
     <TextView
-        android:id="@+id/textView15"
+        android:id="@+id/txtNumerOAPMC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Segundo numero: "
@@ -35,7 +35,7 @@
         />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/buttonCerrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Cerrar" />
